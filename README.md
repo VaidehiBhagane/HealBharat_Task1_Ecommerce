@@ -32,11 +32,5 @@ Design a backend SQL database for a small e-commerce platform and generate analy
 
 ---
 
-## 📝 How to Use:
 
-1. Create the schema using `task 1.sql`.
-2. Insert the sample data using `insert values.sql`.
-3. Run the analytical queries from `retieve data.sql`.
-
----
 
