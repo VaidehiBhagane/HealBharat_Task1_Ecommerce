@@ -32,5 +32,6 @@ Design a backend SQL database for a small e-commerce platform and generate analy
 
 ---
 
+Checked 
 
 
